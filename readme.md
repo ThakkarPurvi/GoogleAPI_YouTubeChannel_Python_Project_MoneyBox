@@ -8,9 +8,9 @@
 
 [Program](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Program)
 
-[Team Members](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Team_Members)
+[Team Members](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Team-Members)
 
-[Profile](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Profile)
+[Profile](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#-Profile)
 
 
 ## **Project_Description**
