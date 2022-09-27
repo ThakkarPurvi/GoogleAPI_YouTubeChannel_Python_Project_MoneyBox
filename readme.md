@@ -15,14 +15,14 @@
 
 ## **Project_Description**
 
-This is a simple Youtube API search project craeted by CFG students as a project. This programs uses your youtube channel name and displays their viewcount, vide count and subscribers on that channel. 
+This is a simple Youtube API search project craeted by CFG students as a project. This program uses your youtube channel name and displays their viewcount, videocount and subscribers on that channel. 
 
 **Minimum Viable Product**
  - The MVP of this project is to extract channel live data from the requested channel. 
- - This programs uses your youtube channel name and displays their viewcount, vide count and subscribers on that channel. 
+ - This program uses your youtube channel name and displays their viewcount, videocount and subscribers on that channel. 
 
 **Extended Product** 
-- Once you retrieve the data from that channel this program will automatically save the output in a new file.
+- Once you retrieve the data from that channel this program will automatically save the output in a new txt file.
 
 **Project Parts explained**
 
