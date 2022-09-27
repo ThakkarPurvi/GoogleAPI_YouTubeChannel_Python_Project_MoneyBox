@@ -2,15 +2,15 @@
 
 [Project_Description](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#project_description)
 
-[Installation](##Installation)
+[Installation](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Installation)
 
-[Tech Stack](##Tech-Stack)
+[Tech Stack](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Tech-Stack)
 
-[Run](##Run)
+[Run](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Run)
 
-[Thank you](##Thank-you)
+[Thank you](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Thank-you)
 
-[Profile](##Profile)
+[Profile](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Profile)
 
 
 ## **Project_Description**
