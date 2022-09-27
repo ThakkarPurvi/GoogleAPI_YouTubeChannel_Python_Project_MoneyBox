@@ -6,7 +6,7 @@ from art import logo
 def get_youtube_data(channel_name):
     """
     This function gets the information of the Youtube Channel requested
-    Args:
+    Input:
         channel_name (str): string with the channel name
     Returns:
         statistics (dict): dictionary containing the metrics from the channel
@@ -26,7 +26,7 @@ def get_youtube_data(channel_name):
 def format_results(channel_name, results, metric_name="all"):
     """
     Returns a formatted string with the specified metrics
-    Args:
+    Input:
         channel_name (str): string with the channel name
         results (dict): dictionary containing the metrics from the channel
         metric_name (str): string that specified the requested metric. Defaults to 'all'
@@ -65,7 +65,11 @@ def save_results(channel_name, results_text):
 
 def run():
     os.system('cls' if os.name == 'nt' else 'clear')
-    print(logo)
+    class color:
+        RED = '\033[91m'
+        END = '\033[0m'
+    print(f"", color.RED + logo + color.END)
+    
     while True:
         channel_name = input("What is the User name of the Youtube Channel? ")
         results = get_youtube_data(channel_name)
@@ -85,8 +89,6 @@ def run():
             break
 
 run()
-
-
 
 # guardianwires
 # NASAgovVideo
