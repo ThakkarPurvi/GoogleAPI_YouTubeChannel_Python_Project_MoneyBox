@@ -126,7 +126,7 @@ Below are the 5 steps we followed to create and run this project successfully.
 **Step 1: get_youtube_data**
 
         - This function gets the information of the Youtube Channel requested
-            Args:
+            Input:
                 channel_name (str): string with the channel name
             Returns:
                 statistics (dict): dictionary containing the metrics from the channel
@@ -134,7 +134,7 @@ Below are the 5 steps we followed to create and run this project successfully.
 **Step 2: format_results**
 
         - Returns a formatted string with the specified metrics
-            Args:
+            Input:
                 channel_name (str): string with the channel name
                 results (dict): dictionary containing the metrics from the channel
                 metric_name (str): string that specified the requested metric. Defaults to 'all'
@@ -155,7 +155,8 @@ Below are the 5 steps we followed to create and run this project successfully.
         
         - Using input function user is asked - which channel data is the user willing to view.
         - Once answered, user is promted - which metrics does the user is interested to retrieve.
-
+        - When the program gets the user input - it will accordingly share the output. 
+  
 
 ## **Team Members**
 
