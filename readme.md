@@ -6,9 +6,9 @@
 
 [Tech Stack](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Tech-Stack)
 
-[Run](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Run)
+[Program](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Program)
 
-[Thank you](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Thank-you)
+[Team Members](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Team_Members)
 
 [Profile](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Profile)
 
