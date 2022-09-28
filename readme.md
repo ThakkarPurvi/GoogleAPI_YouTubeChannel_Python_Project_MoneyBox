@@ -1,5 +1,16 @@
 ## **YouTube API Project**
 
+![Github issues](https://img.shields.io/github/issues/ThakkarPurvi/Harry_Potter_API)
+![Windows](https://svgshare.com/i/ZhY.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![CodeFirstGirls](https://img.shields.io/badge/ProjectBy-CodeFirstGirls(CFG)-blue)
+![MoneyBox](https://img.shields.io/badge/SponsoredBy-MoneyBox-blue)
+
+
 [Project_Description](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#project_description)
 
 [Installation](https://github.com/ThakkarPurvi/GoogleAPI_YouTubeChannel_Python_Project_MoneyBox/blob/master/readme.md#Installation)
